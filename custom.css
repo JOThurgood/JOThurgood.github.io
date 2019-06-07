@@ -48,3 +48,8 @@ img{
     border-radius: 0%; 
     border: solid black 1px;
 }
+
+.articleTitle{
+    font-style: italic;
+    text-transform: capitalize;
+}
